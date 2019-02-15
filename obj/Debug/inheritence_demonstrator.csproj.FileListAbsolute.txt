@@ -1,0 +1,7 @@
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\inheritence-demonstrator-console-app\inheritence_demonstrator\inheritence_demonstrator\bin\Debug\inheritence_demonstrator.exe.config
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\inheritence-demonstrator-console-app\inheritence_demonstrator\inheritence_demonstrator\bin\Debug\inheritence_demonstrator.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\inheritence-demonstrator-console-app\inheritence_demonstrator\inheritence_demonstrator\bin\Debug\inheritence_demonstrator.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\inheritence-demonstrator-console-app\inheritence_demonstrator\inheritence_demonstrator\obj\Debug\inheritence_demonstrator.csprojAssemblyReference.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\inheritence-demonstrator-console-app\inheritence_demonstrator\inheritence_demonstrator\obj\Debug\inheritence_demonstrator.csproj.CoreCompileInputs.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\inheritence-demonstrator-console-app\inheritence_demonstrator\inheritence_demonstrator\obj\Debug\inheritence_demonstrator.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\inheritence-demonstrator-console-app\inheritence_demonstrator\inheritence_demonstrator\obj\Debug\inheritence_demonstrator.pdb
